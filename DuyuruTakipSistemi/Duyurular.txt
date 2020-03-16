@@ -1,0 +1,8 @@
+@teknopark<>Aselsan<>Yazılım<>2019-04-28<>2019-04-30<>Personel1<>Saat 15:00'da<>Duyuru->NORMAL<>Kariyer Günü
+@teknopark<>EKOL<>Proje <>2019-04-18<>2019-04-25<>Personel9<>Bilgi verilecektir.<>Duyuru->ÖNEMLİ<>Tanıtım
+@topluluk<>Gezi ve Doğa<>2019-04-19<>2019-04-24<>Gezi Topluluğu<>Trabzona gezi düzenlenecektir.<>Duyuru->NORMAL<>GEZİ
+@topluluk<>Yeşilay<>2019-05-10<>2019-05-10<>Topluluk Başkanı<>Toplantı var duyurulur!<>Duyuru->ÖNEMLİ<>Toplantı
+@topluluk<>Yardım Ve Huzur <>2019-06-06<>2019-06-06<>Topluluk Koordinatörü<>Üniversite medikoda yardım konserimize davetlisiniz :)<>Duyuru->NORMAL<>Konser
+@teknopark<>İnfina<>Donanım<>2019-05-16<>2019-07-03<>Personel 5<>Firmamıza gönüllü stajyer alınacaktır<>Duyuru->ÖNEMLİ<>Staj Başvurusu
+@akademik<>Rektörlük<>Sınav aralığı<>2019-05-20<>2019-05-31<>Duyuru->ÖNEMLİ<>Bütün bölümler<>Mühendislik Fakültesi<>Final tarihleri
+@akademik<>Proje ve inavasyon<>Robocot festivalimize davetlisiniz<>2019-05-14<>2019-05-17<>Duyuru->NORMAL<>Tüm Bölümler<>Tüm Fakülteler<>Robocot 
